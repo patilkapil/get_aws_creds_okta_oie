@@ -177,7 +177,7 @@ def get_sso_token(access_token,id_token,scope):
   '''
 
   #Create a POST payload
-  payload = 'client_id=0oa3ewydjwiyPCBzK1d7' \
+  payload = 'client_id='+env_conf_map['OIDC_CLIENT_ID']+\
             '&actor_token='+access_token+\
             '&actor_token_type=urn%3Aietf%3Aparams%3Aoauth%3Atoken-type%3Aaccess_token' \
             '&subject_token='+id_token+\
