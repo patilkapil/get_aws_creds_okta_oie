@@ -24,12 +24,12 @@ SAML_ASSERTION_URL - SAML assertions URL to receive the SAML response
 DEVICE_AUTHORIZATION_URL - URL to authorize user's device end point'
 '''
 env_conf_map={
-'OIDC_CLIENT_ID':'0oa3ewydjwiyPCBzK1d7',
-'DEFAULT_OKTA_AUTHZ_SERVER':'https://kapil.oktapreview.com/oauth2/v1/token',
+'OIDC_CLIENT_ID':'XXXXX',
+'DEFAULT_OKTA_AUTHZ_SERVER':'https://<Domain>/oauth2/v1/token',
 'GRANT_TYPE':'urn:ietf:params:oauth:grant-type:device_code',
-'AUDIENCE_SSO':'urn:okta:apps:0oa3ewi6yy3PjmAwH1d7',
-'SAML_ASSERTION_URL':'https://kapil.oktapreview.com/login/token/sso?token=',
-'DEVICE_AUTHORIZATION_URL':'https://kapil.oktapreview.com/oauth2/v1/device/authorize'
+'AUDIENCE_SSO':'urn:okta:apps:YYYYYY',
+'SAML_ASSERTION_URL':'https://<Domain>/login/token/sso?token=',
+'DEVICE_AUTHORIZATION_URL':'https://<Domain>/oauth2/v1/device/authorize'
 }
 
 
