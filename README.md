@@ -1,7 +1,8 @@
 ## get_creds is a CLI utility for Okta OIE + AWS FED app to acquire temporary AWS credentials via AWS STS.
 
-
-
+```diff
+- Code doesn't handle expiry of AWS credentials at the moment 
+```
  
 # Assumption
 1. You have an AWS FED App already set
