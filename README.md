@@ -61,5 +61,10 @@ Switch to a new profile and start using aws cli commands
 
 <img width="678" alt="image" src="https://user-images.githubusercontent.com/2838125/168673150-65e1171e-5bdf-4e81-9921-9ad527bcc33a.png">
 
+## Sequence Diagram 
+
+![image](https://user-images.githubusercontent.com/2838125/169084620-4749cbb4-7ddf-4af6-b1ea-69987a57b6d9.png)
+
+
 
 ### THIS IS A PROTOTYPE AND HAS NOT BEEN THROUTROUGHLY TESTED FOR EVERY USE CASE.
