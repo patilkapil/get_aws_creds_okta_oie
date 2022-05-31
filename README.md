@@ -64,7 +64,8 @@ Switch to a new profile and start using aws cli commands
 
 ## Sequence Diagram 
 
-![image](https://user-images.githubusercontent.com/2838125/169084620-4749cbb4-7ddf-4af6-b1ea-69987a57b6d9.png)
+![image](https://user-images.githubusercontent.com/2838125/171256580-09dfa436-0405-4cec-944e-e68cac44d4b6.png)
+
 
 
 
